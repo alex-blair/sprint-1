@@ -2,14 +2,14 @@ The Basics of Command Line
 
 Command line is a place where you can get information and issue instructions to your computer by typing written commands. Type the right command and your computer will do exactly what you asked. The location of this "place" for issuing instructions varies depending on whether you use Mac OS X, Windows or Linux. On your Macbook, this place is a program called Terminal, which is located in the Applications folder.
 
-The difficulty with command line is that the commands aren't obvious. They're not things you come across everyday. There's a set list of commands, and though you can do almost anything with those commands, if you don't use them, your computer won't react. It's like going to a Help Desk in a foreign land. The person behind the desk can't help you if they don't understand what you're saying. You need to issue commands in a language your computer will understand.
+The difficulty with command line is that the commands aren't things you come across every day. There's a set list of commands, which you can do almost anything with, but if you don't use the right words your computer won't react. It's like going to a help desk in a foreign land. The person behind the desk can't help you if they don't understand what you're saying. You need to issue commands in a language your computer will understand.
 
-It's important to understand what commands mean before you give them. Otherwise the results can be unfortunate. For instance, if you issue the command to delete all folders, your computer will happily go ahead and do that, even if you issued the command by mistake.  
+It's important to understand what commands mean before you give them. Otherwise you can make some pretty big mistakes. For instance, if you issue the command to delete all folders, your computer will go ahead and do that even if you issued the command by mistake.  
 
 Like with other foreign languages, there are lots of things you can do once you know the language of command line. It's just a matter of learning the right words.
 
 
-Top 10 Terminal Commands in Plain English
+10 Terminal Commands in Plain English
 
 1) pwd - stands for "print working directory". It's a way of finding out what folder (or "directory") you're currently in and the location of that folder in relation to other folders.
 
